@@ -36,3 +36,7 @@ This dashboard helps administrators **track KPIs** and make data-driven operatio
 
 - This project was a great example of using data visualization to drive operational improvements in healthcare.
 -  It combined data cleaning, KPI building, and dashboard storytelling to provide actionable insights for hospital administrators
+
+- 📥 [Download Power BI File]("ER Utilization and Patient Walkout Analysis.pbix")
+
+
