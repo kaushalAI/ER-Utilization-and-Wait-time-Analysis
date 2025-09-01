@@ -25,7 +25,7 @@ This dashboard helps administrators **track KPIs** and make data-driven operatio
 - **Excel/CSV dataset** (synthetic healthcare ER data)
 - 
 - ## 📂 Files in This Repository
-- `ER_Utilization.pbix` → Power BI file  
+- `ER Utilization and Patient Walkout Analysis.pbix` → Power BI file  
 - `ER_Dashboard_Snapshot.png` → Dashboard preview
 
 - This project was a great example of using data visualization to drive operational improvements in healthcare.
