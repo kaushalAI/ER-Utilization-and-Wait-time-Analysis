@@ -19,6 +19,12 @@ This dashboard helps administrators **track KPIs** and make data-driven operatio
 - **Patients Seen Within 30 Mins (%)**
 - **Walkout Rate (%)**
 - Trend analysis by **Day, Time, and Triage Level**
+  
+- ## 📸 Dashboard Snapshot
+
+![ER Dashboard](ER_Dashboard_Snapshot.png)
+
+
 
 ## 🛠️ Tools Used
 - **Power BI** for interactive dashboarding
